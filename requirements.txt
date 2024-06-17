@@ -3,3 +3,6 @@ uvicorn
 tensorflow
 opencv-python
 numpy
+streamlit
+requests
+pillow

@@ -1,4 +1,3 @@
-# preprocessing.py
 import cv2
 import numpy as np
 
@@ -16,3 +15,4 @@ def preprocessing_image(filepath):
 
     img = img / 255
     return img
+
